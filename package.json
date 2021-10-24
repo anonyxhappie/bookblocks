@@ -1,0 +1,32 @@
+{
+  "name": "bookblocks",
+  "version": "1.0.0",
+  "description": "Blockchain based application - Dapp for books",
+  "main": "truffle.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonyxhappie/bookblocks.git"
+  },
+  "keywords": [
+    "dapp",
+    "blockchain",
+    "ethereum",
+    "solidity",
+    "books"
+  ],
+  "author": "Akshay Saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anonyxhappie/bookblocks/issues"
+  },
+  "homepage": "https://github.com/anonyxhappie/bookblocks#readme",
+  "dependencies": {
+    "lite-server": "^2.3.0",
+    "@truffle/contract": "^4.3.38",
+    "truffle": "^5.4.16"
+  }
+}
